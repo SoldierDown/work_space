@@ -1,2 +1,2 @@
-# CS 523
-This repo is for course CS 523 Computer Graphics@Rutgers University
+# This Is Us
+This is my personal project which records those beautiful moments with family and friends.
