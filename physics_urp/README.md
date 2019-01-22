@@ -7,4 +7,4 @@ The motivation of this project is to study $\eta(1405)$ and $\eta(1475)$ using h
 
 - Made comparisons between data and M-C simulation
 
-- View my [technical report]()
+- View my [technical report](https://github.com/SoldierDown/work_space/blob/master/physics_urp/physics_urp.pdf)
