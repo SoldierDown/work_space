@@ -1,0 +1,12 @@
+﻿  Moc'ing MyWindow.h...
+  moc_MyWindow.cpp
+  FluidSolver.cpp
+  MyWindow.cpp
+  main.cpp
+c:\users\dyhar\source\repos\smokesimulation\smokesimulation\mywidget.h(7): warning C4005: 'N': macro redefinition (compiling source file .\GeneratedFiles\Release\moc_MyWindow.cpp)
+  c:\users\dyhar\source\repos\smokesimulation\smokesimulation\fluidsolver.h(6): note: see previous definition of 'N' (compiling source file .\GeneratedFiles\Release\moc_MyWindow.cpp)
+c:\users\dyhar\source\repos\smokesimulation\smokesimulation\mywidget.h(7): warning C4005: 'N': macro redefinition (compiling source file main.cpp)
+  c:\users\dyhar\source\repos\smokesimulation\smokesimulation\fluidsolver.h(6): note: see previous definition of 'N' (compiling source file main.cpp)
+c:\users\dyhar\source\repos\smokesimulation\smokesimulation\mywidget.h(7): warning C4005: 'N': macro redefinition (compiling source file MyWindow.cpp)
+  c:\users\dyhar\source\repos\smokesimulation\smokesimulation\fluidsolver.h(6): note: see previous definition of 'N' (compiling source file MyWindow.cpp)
+  SmokeSimulation.vcxproj -> C:\Users\dyhar\source\repos\SmokeSimulation\x64\Release\SmokeSimulation.exe

@@ -1,0 +1,4 @@
+﻿  MyWindow.cpp
+c:\users\dyhar\source\repos\smokesimulation\smokesimulation\mywidget.h(7): warning C4005: 'N': macro redefinition
+  c:\users\dyhar\source\repos\smokesimulation\smokesimulation\fluidsolver.h(6): note: see previous definition of 'N'
+  SmokeSimulation.vcxproj -> C:\Users\dyhar\source\repos\SmokeSimulation\x64\Debug\SmokeSimulation.exe
