@@ -7,4 +7,4 @@ Smoke simulation is one of the most important parts in physics-based simulation.
 
 - View my [technical report](https://github.com/SoldierDown/CS523/blob/master/Term%20Project/Term_Project.pdf)
 
-- View [source code](https://github.com/SoldierDown/work_space/tree/master/cs523%40rutgers/Term%20Project/SmokeSimulation)
+- View my [source code](https://github.com/SoldierDown/work_space/tree/master/cs523%40rutgers/Term%20Project/SmokeSimulation)
