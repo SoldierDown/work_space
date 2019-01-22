@@ -1,2 +1,10 @@
-# CS 523
-This repo is for course CS 523 Computer Graphics@Rutgers University
+# Abstract
+In Highe Energy Physics(HEP), $\eta(1405)$ and $\eta(1475)$ both can decay into $K\bar{K}\pi$ as suggested by the Mark III analysis. However, BESII analysis suggests that if an energy-dependent width is applied, it is not neccessary to have two states in $J/\Psi\rightarrow K\bar{K}\pi$.
+
+The motivation of this project is to study $\eta(1405)$ and $\eta(1475)$ using high-statistics $J/\Psi$ samples at BESIII, which is composed the following steps:
+
+- Implement event selection, background estimations and signal fitting.
+
+- Made comparisons between data and M-C simulation
+
+- View my [technical report]()
