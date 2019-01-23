@@ -7,7 +7,7 @@ Smoke simulation is one of the most important parts in physics-based simulation.
   Through advection, the properties of smoke move along with the velocity field
   - Diffusion:  $\frac{\partial\vec{u}}{\partial t} = \nu\nabla^2\vec{u}$  
   Through diffusion, density tends to be uniform in the domain.
-  - Projection: $\frac{\partial\vec{u}}{\partial t} + \frac{1}{\pho}\nabla p = 0$
+  - Projection: $\frac{\partial\vec{u}}{\partial t} + \frac{1}{\rho}\nabla p = 0$
   
   projection is to make the velocity field divergence-free, which means the smoke is incompressible.
 
