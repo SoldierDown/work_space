@@ -11,6 +11,7 @@ The Möbius strip or Möbius band, is a surface with only one side (when embedde
 ## Reuleaux Triangle
 > ![](./image/reuleaux_triangle.png)
 ## Ruled Surface
+In geometry, a surface **S** is ruled (also called a scroll) if through every point of **S** there is a straight line that lies on **S**. Examples include the plane, the curved surface of a cylinder or cone, a conical surface with elliptical [directrix](https://en.wikipedia.org/wiki/Conic_section#Eccentricity,_focus_and_directrix), the right conoid, the helicoid, and the tangent developable of a smooth curve in space.*[from [Wikipedia](https://en.wikipedia.org/wiki/Ruled_surface)]* 
 > ![](./image/ruled_surface_test.png)
 ## Ukulele
 The ukulele is a member of the lute family of instruments. It generally employs four nylon or gut strings or four courses of strings. Some strings may be paired in courses, giving the instrument a total of six or eight strings.  
