@@ -1,3 +1,4 @@
+*Don't forget to add [Mathjax](https://www.mathjax.org/) plugin for GitHub*
 # Abstract
 Smoke simulation is one of the most important parts in physics-based simulation. In this project, our goal is to visualize 2D smoke based on 2D Navier-Stokes equation. It is composed of the following steps:
 
