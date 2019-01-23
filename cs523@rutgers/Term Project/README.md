@@ -12,7 +12,7 @@ Smoke simulation is one of the most important parts in physics-based simulation.
   
   Projection is to make the velocity field divergence-free, which means the smoke is incompressible.
 
-- Secondly, we design a GUI using QT. This GUI helps us interact with the smoke. We can add source to the domain simply using mouse, pause/restart the simulation and run the simulation frame by frame.
+- Secondly, we design a GUI using QT. This GUI helps us interact with the smoke. We can add source to the domain by simply using mouse, pause/restart the simulation and run the simulation frame by frame.
 
 - View my [technical report](https://github.com/SoldierDown/CS523/blob/master/Term%20Project/Term_Project.pdf)
 
