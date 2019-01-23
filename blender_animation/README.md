@@ -14,7 +14,10 @@ A Reuleaux triangle is a shape formed from the intersection of three circular di
 In geometry, a surface **S** is ruled (also called a scroll) if through every point of **S** there is a straight line that lies on **S**. Examples include the plane, the curved surface of a cylinder or cone, a conical surface with elliptical [directrix](https://en.wikipedia.org/wiki/Conic_section#Eccentricity,_focus_and_directrix), the right conoid, the helicoid, and the tangent developable of a smooth curve in space.*[from [Wikipedia](https://en.wikipedia.org/wiki/Ruled_surface)]* 
 > ![](./image/ruled_surface_test.png)
 ## Mechanical Device
+A common mechanical device which you may find in your car.
 > ![](./image/differential0.00.png)
+See below for how it works!
+> ![](./image/differential.gif)
 ## Ukulele
 The ukulele is a member of the lute family of instruments. It generally employs four nylon or gut strings or four courses of strings. Some strings may be paired in courses, giving the instrument a total of six or eight strings.  
 
