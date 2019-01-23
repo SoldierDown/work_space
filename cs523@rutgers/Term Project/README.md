@@ -4,6 +4,7 @@ Smoke simulation is one of the most important parts in physics-based simulation.
 - First of all, we apply numerical methods and solve Navier-Stokes equation by splitting the original equation into three major parts: 
   - Advection   
   <center>$\frac{Dq}{dt} = 0$</center>
+<center>haha</center>
   
   Through advection, the properties of smoke move along with the velocity field
   - Diffusion 
