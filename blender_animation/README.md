@@ -16,10 +16,12 @@ The Möbius strip or Möbius band, is a surface with only one side (when embedde
 - Take a look at this magic. It is counter-intuitive to see a straight rod can easily pass through a bending hole.
 > ![](./image/ruled_surface.gif)
 ## Mechanical Device
-- A common mechanical device which you may find in your car.
+- Some common mechanical devices which you may find in your car.
 > ![](./image/differential0.00.png)
-- See below for how it works!
+> ![](./image/mechanic.png)
+- See below for how they work!
 > ![](./image/differential.gif)
+> ![](./image/mechanical_device_lastest.gif)
 ## Ukulele
 - The ukulele is a member of the lute family of instruments. It generally employs four nylon or gut strings or four courses of strings. Some strings may be paired in courses, giving the instrument a total of six or eight strings.  
 
