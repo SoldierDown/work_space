@@ -14,5 +14,5 @@
 > Typical result is shown below:
 > ![](./results/mess.png)
 > View my [technical report](./Term_Project.pdf)  
-> View my [demo video](./results/presentation.mp4)
+> View my [demo video](./results/presentation.mp4)  
 > View my [source code](./SmokeSimulation)
