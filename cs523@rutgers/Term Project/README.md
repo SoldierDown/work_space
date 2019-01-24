@@ -16,4 +16,4 @@
 > pause/restart the simulation and run the simulation frame by frame.
 >  
 > View my [technical report](./Term_Project.pdf)  
-> View my [source code](https://github.com/SoldierDown/work_space/tree/master/cs523%40rutgers/Term%20Project/SmokeSimulation)
+> View my [source code](./SmokeSimulation)
