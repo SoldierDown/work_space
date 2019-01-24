@@ -6,6 +6,7 @@
 > - Take collisions into account and disallow inter-penetration.    
 > - Typical result is shown below:  
 > ![](./results/collision_detection.png)  
+>  
 > View my [technical report](../report.pdf) for more details.  
 > View my [demo](./results/video1.mp4) [videos](./results/video2.mp4).  
 > View my [source code](./code).
