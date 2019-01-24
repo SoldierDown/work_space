@@ -10,7 +10,9 @@
 >   - Projection: $\frac{\partial\vec{u}}{\partial t} + \frac{1}{\rho}\nabla p = 0$  
 > Projection is to make the velocity field divergence-free, which means the smoke is incompressible.  
 > - Secondly, we design a GUI using QT. This GUI helps us interact with the smoke. We can add source to the domain by simply using mouse, 
-> pause/restart the simulation and run the simulation frame by frame.
->  
+> pause/restart the simulation and run the simulation frame by frame.  
+> Typical result is shown below:
+> ![](./results/mess.png)
 > View my [technical report](./Term_Project.pdf)  
+> View my [demo video](./results/presentation.mp4)
 > View my [source code](./SmokeSimulation)
