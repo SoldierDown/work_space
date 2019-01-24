@@ -1,13 +1,13 @@
 # Introduction
 > This project is for course 3D Animation and Special Effects.
 ## Bear-Claw Knife
-![](./bear_claw_knife.jpeg)
+![](./bear_claw_knife.jpg)
 ## Elevator
-![](./elevator.jpeg)
+![](./elevator.jpg)
 ![](./elevator.gif)
 ## Motorola Cell Phone
-![](./random.jpeg)
-![](./top.jpeg)
+![](./random.jpg)
+![](./top.jpg)
 ![](./bottom.jpg)
 ## Tornado
-![](./tornado.jpeg)
+![](./tornado.jpg)
