@@ -9,13 +9,13 @@
 > - My parents seeing me off @ [Xiamen Gaoqi International Airport](https://www.xiamen-airport.com/)
 > - Date: Aug. 20, 2018
 > ![](./image/family_sketch.jpg)  
-> - Me and my college friend on Undergraduate Graduation Ceremony
+> - Me and my college friend on Undergraduate Graduation Ceremony (**TBC**)
 > - Date: Jun. 22, 2018
 > ![](./image/graduation.jpg)  
-> - Me in academic dress with my grandma and granpa
+> - Me in academic dress with my grandma and granpa (**TBC**)
 > - Date: Aug. 8, 2018
 > ![](./image/granpaNma.jpg)  
-> - Me and my advisor and colleagues after summer internship
+> - Me and my advisor and colleagues after summer internship (**TBC**)
 > - Date: Aug. 25, 2017
 > ![](./image/summer_intern.jpg)
 > - An imagination island
