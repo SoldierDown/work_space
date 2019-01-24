@@ -6,7 +6,9 @@
 > ![](./image/mobius.png)
 ## Planetary Gear Drive
 > - A planetary gear drive consists of two gears mounted so that the centre of one gear revolves around the centre of the other. A carrier connects the centres of the two gears and rotates to carry one gear, called the **planet gear**, around the other, called the **sun gear**. The planet and sun gears mesh so that their pitch circles roll without slip. A point on the pitch circle of the planet gear traces an epicycloid curve. In this simplified case, the sun gear is fixed and the planetary gear(s) roll around the sun gear.*[from [Wikipedia](https://en.wikipedia.org/wiki/Epicyclic_gearing)]*
-> ![](./image/planet_gear_drive1.jpg)
+> ![](./image/planetary_gear_drive.jpg)
+Check out below for how it works:
+> ![](./image/planetary_gear_drive.gif)
 ## 3D Reuleaux Triangle
 > - A Reuleaux triangle is a shape formed from the intersection of three circular disks, each having its center on the boundary of the other two. Its boundary is a curve of constant width, the simplest and best known such curve other than the circle itself. Constant width means that the separation of every two parallel supporting lines is the same, independent of their orientation.*[from [Wikipedia](https://en.wikipedia.org/wiki/Reuleaux_triangle)]* 
 > ![](./image/reuleaux_triangle.png)
