@@ -2,7 +2,8 @@
 > This is my personal project which records beautiful moments with family and friends.  
 > - Me and my college friends on a winder break trip to Boston
 > - Date: Dec. 31, 2018
-> ![](./image/Boston_with_faces.jpg)  
+> ![](./image/Boston_with_faces.jpg)
+  
 > - My parents seeing me off @ [Xiamen Gaoqi International Airport](https://www.xiamen-airport.com/)
 > - Date: Aug. 20, 2018
 > ![](./image/family_sketch.jpg)  
