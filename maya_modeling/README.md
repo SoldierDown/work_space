@@ -4,7 +4,7 @@
 > ![](./image/bear_claw_knife.jpg)
 ## Elevator
 > ![](./image/elevator.jpg)
-> See below for how it works:
+> See below for how it works:  
 > ![](./image/elevator.gif)
 ## Motorola Cell Phone
 > Perspective view:
