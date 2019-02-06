@@ -18,7 +18,7 @@
 
 > - Me and my college friend on Undergraduate Graduation Ceremony (**TBC**)
 > - Date: Jun. 22, 2018
-> ![](./image/graduation.jpg)  
+> ![](./image/txz.jpg)  
 
 > - Me and my advisor and colleagues after summer internship (**TBC**)
 > - Date: Aug. 25, 2017
