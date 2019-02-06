@@ -16,9 +16,13 @@
 > - Date: Aug. 8, 2018
 > ![](./image/granpaNma.jpg)
 
-> - Me and my college friend on Undergraduate Graduation Ceremony (**TBC**)
+> - Me and my college friend on Undergraduate Graduation Ceremony
 > - Date: Jun. 22, 2018
 > ![](./image/txz.jpg)  
+
+> - Me and my roommates in academic dress
+> - Date: Jun. 8, 2018
+>![](./image/roommates.png)
 
 > - Me and my advisor and colleagues after summer internship (**TBC**)
 > - Date: Aug. 25, 2017
