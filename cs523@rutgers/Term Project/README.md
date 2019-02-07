@@ -1,7 +1,6 @@
 > *Don't forget to add [Mathjax](https://www.mathjax.org/) plugin for GitHub*
 # Abstract
-> Smoke simulation is one of the most important parts in physics-based simulation. In this project, our goal is to visualize 2D smoke  
-> based on 2D Navier-Stokes equation. It is composed of the following steps:  
+> Smoke simulation is one of the most important parts in physics-based simulation. In this project, our goal is to visualize 2D smoke based on 2D Navier-Stokes equation. It is composed of the following steps:  
 > - First of all, we apply numerical methods and solve Navier-Stokes equation by splitting the original equation into three major parts:  
 >   - Advection: $\frac{Dq}{dt} = 0$   
 > Through advection, the properties of smoke move along with the velocity field  
